@@ -1,0 +1,22 @@
+.contact-container {
+  background: #ebee49;
+  text-align: center;
+  padding: 20px;
+}
+
+.contact-container h2 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 10px;
+  color: #f7eeee;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #656465;
+}
